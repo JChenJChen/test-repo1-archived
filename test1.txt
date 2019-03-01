@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 14A5-25EB
+
+ Directory of C:\Users\jchen\Documents\testGit
+
+02/26/2018  03:05 PM    <DIR>          .
+02/26/2018  03:05 PM    <DIR>          ..
+02/26/2018  03:05 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  285,938,524,160 bytes free
