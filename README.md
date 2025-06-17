@@ -1,7 +1,9 @@
 # Jenkins CI/CD
+
 Jenkins CI/CD pratice repo -- ARCHIVED
-temporarily named "test-repo1"
+
+(previously temporarily named "test-repo1")
 
 ### Contents
-- Jenkins pipeline
+- Jenkinsfile: Jenkins pipeline
 - accompanying Jenkins metadata .txt's
